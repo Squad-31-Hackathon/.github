@@ -39,7 +39,7 @@ Link do Design Ofertado para o Hackaton: <a href="https://www.freecodecamp.org/"
 
 ## :computer: Front End Documentação
 Linguagens: React
-Frameworks: Vite
+Library: Vite
 
 ## :page_facing_up: Back End Documentação
 Linguagens: Java 17
