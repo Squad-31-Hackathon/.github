@@ -29,15 +29,20 @@ Processo Efetuado no ano de 2024
 
 ### GitHub
 Organização do github
+
+<img width="740" alt="Screenshot 2024-01-23 at 16 10 38" src="https://github.com/Squad-31-Hackathon/.github/assets/47783422/3bced019-2a89-4ec9-9d6f-83dfa1def494">
+
     
 ### Design
 Link do Design Ofertado para o Hackaton: <a href="https://www.freecodecamp.org/">Figma</a>
  
 
 ## :computer: Front End Documentação
-Tecnologia usada: React
+Linguagens: React
+Frameworks: Vite
 
 ## :page_facing_up: Back End Documentação
-Tecnologia usada: Java com o framework SpringBoot
+Linguagens: Java 17
+Frameworks: SpringBoot
 
 ## :floppy_disk: Banco de dados End Documentação
