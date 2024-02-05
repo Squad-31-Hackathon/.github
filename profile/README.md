@@ -7,11 +7,11 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## 👋 Conheça nossos devs
-[<h3>Diego Marcelino</h3>](https://github.com/lucasbrbs)
+[<h3>Diego Marcelino</h3>](https://github.com/dmarcelino1989)
 [<h3>Bruno Andreotii</h3>](https://github.com/lucasbrbs)
 [<h3>Finéas Antônio</h3>](https://github.com/lucasbrbs)
 [<h3>lucas Barbosa</h3>](https://github.com/lucasbrbs)
-[<h3>Pedro Emanoel</h3>](https://github.com/lucasbrbs)
+[<h3>Pedro Emanoel</h3>](ttps://github.com/Pedro-E-S-R)
 
 # 📁 Documentação 
 
