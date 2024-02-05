@@ -28,6 +28,10 @@
 Processo seletivo para a empresa FCamara.
 Processo Efetuado no ano de 2024
 
+##Como rodar o código?
+npm i  (para criar as dependencias)
+npm run dev (para rodar o projeto)
+
 ### GitHub
 Organização do github
 
@@ -54,3 +58,4 @@ Frameworks: SpringBoot
 ## Deploy
 Front-end: OnRender
 Back-end: Heroku
+
