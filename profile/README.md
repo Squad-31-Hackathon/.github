@@ -9,7 +9,7 @@
 ## 👋 Conheça nossos devs
 [<h3>Diego Marcelino</h3>](https://github.com/dmarcelino1989)
 [<h3>Bruno Andreotii</h3>](https://github.com/lucasbrbs)
-[<h3>Finéas Antônio</h3>](https://github.com/lucasbrbs)
+[<h3>Finéas Antônio</h3>](https://github.com/FineiasAntonio)
 [<h3>lucas Barbosa</h3>](https://github.com/lucasbrbs)
 [<h3>Pedro Emanoel</h3>](ttps://github.com/Pedro-E-S-R)
 
