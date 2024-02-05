@@ -20,6 +20,7 @@
  - Front End 
  - Back End
  - Banco de Dados
+ - Deploy
 
 ## :clipboard: Resumo
 
@@ -39,10 +40,17 @@ Link do Design Ofertado para o Hackaton: <a href="https://www.freecodecamp.org/"
 
 ## :computer: Front End Documentação
 Linguagens: React
-Library: Vite
+Library: Axios para consulta de API
+        MaterialUI para componentes pré-prontos
+        JWTDecode para decodar o jwt de criptografia do google
+        React-OAauth para lidar com o cadastro pelo google
 
 ## :page_facing_up: Back End Documentação
 Linguagens: Java 17
 Frameworks: SpringBoot
 
-## :floppy_disk: Banco de dados End Documentação
+## :floppy_disk: Banco de dados
+
+## Deploy
+Front-end: OnRender
+Back-end: Heroku
